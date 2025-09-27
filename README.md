@@ -400,7 +400,7 @@ MIT License - see LICENSE file for details.
 - **AI Chat Interface**: Natural language queries with contextual responses
 - **Export System**: Multiple data formats (CSV, JSON, NetCDF, ASCII)
 - **Real-time Updates**: WebSocket-based live data streaming
-- **Mobile Responsive**: Works on all device sizes
+- **Mobile Responsive**: Works on all device sizes.
 
 **📊 System Performance:**
 - **API Response Time**: <100ms for typical queries
